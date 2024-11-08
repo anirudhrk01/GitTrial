@@ -1,7 +1,2 @@
-this is a sample text file created by anirudh
-<<<<<<< HEAD
-hi
-=======
 
-editted from remote
->>>>>>> c563775cef422880c08bf574bcb93704270f4082
+2 02 local
