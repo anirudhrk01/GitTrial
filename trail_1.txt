@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
 2 02 local
 
 14 00 remote
+=======
+this is a sample text file created by anirudh
+
+
+this is the new feature
+>>>>>>> dev
