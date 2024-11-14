@@ -1,19 +1,2 @@
-1 main first line
-2 main second
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-3 main
-=======
-=======
->>>>>>> dev
-1 dev           3
-2 dev
-3 dev
-1 dev/1
-<<<<<<< HEAD
-2 dev/2
->>>>>>> dev
-=======
-2 dev/2
->>>>>>> dev
+dev2
