@@ -24,7 +24,7 @@ spring.jpa.hibernate.hbm2ddl.auto=create
 spring.datasource.initialization-mode=always
 spring.sql.init.mode=always
 ```
-
+green for the day
 Here's what these properties do:
 
 * `spring.jpa.hibernate.hbm2ddl.auto=create`: This property tells Hibernate to create the database schema if it doesn't exist.
